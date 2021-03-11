@@ -1,0 +1,72 @@
+.papa{
+position:absolute;
+top:50px;
+left:40px;
+width:1500px; 
+height:800px;
+background:green;
+border:solid 1px black;
+}
+.jo1{
+position:absolute;
+top:20px;
+left:300px;
+width:900px; 
+height:200px;
+background:black;
+}
+.jo2{
+position:absolute;
+top:250px;
+left:20px;
+width:600px; 
+height:500px;
+background:black;
+}
+.jo3{
+position:absolute;
+top:250px;
+left:650px;
+width:800px; 
+height:500px;
+background:black;
+
+}
+.texto1{
+
+position: absolute;
+top: 60px;
+left: 350px;
+color: blue;
+font-size: 30px;
+
+}
+.texto2{
+
+position: absolute;
+top: 10px;
+left: 30px;
+color: blue;
+font-size: 30px;
+
+}
+.texto3{
+
+position: absolute;
+top: 10px;
+left: 350px;
+color: blue;
+font-size: 30px;
+
+}
+.foto1{
+
+position: absolute;
+top: 10px;
+left: 100px;
+height: 200px;
+background: url("rtx.png")
+
+
+}	
+}
